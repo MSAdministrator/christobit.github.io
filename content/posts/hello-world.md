@@ -1,10 +1,10 @@
-+++
-title = "Hello Friend"
-date = "1986-09-17"
-author = "Elliot"
-cover = "hello.jpg"
-description = "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
-+++
+---
+title: "Hello World"
+date: 2018-08-24T17:02:46-05:00
+draft: true
+author: Christopher Rodriguez
+---
+
 
 > "Hello, friend?" That's lame.
 > Maybe I should give you a name...  
@@ -16,6 +16,3 @@ description = "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
 > I'm talking to an imaginary person.
 >
 > **— Mr. Robot S01E01**
-
-
-

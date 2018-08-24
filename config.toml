@@ -4,6 +4,7 @@ title = "christobit"
 theme = "hello-friend"
 copyright = ""
 paginate = 5
+keywords = "blog,scrum"
 
 [params]
   subtitle = ""
@@ -12,8 +13,6 @@ paginate = 5
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about"
-  [[menu.main]]
-    identifier = "showcase"
-    name = "Showcase"
-    url = "/showcase"
+    url = "/pages/about"
+[permalinks]
+    post = "about"
