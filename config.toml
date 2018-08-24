@@ -6,7 +6,7 @@ copyright = ""
 paginate = 5
 
 [params]
-  subtitle = "A simple theme for Hugo"
+  subtitle = "A site for robots."
 
 [menu]
   [[menu.main]]
