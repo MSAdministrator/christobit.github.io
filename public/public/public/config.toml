@@ -1,0 +1,18 @@
+baseURL = "https://christobit.github.io/"
+languageCode = "en-us"
+title = "christobit"
+theme = "hello-friend"
+copyright = ""
+paginate = 5
+keywords = "blog,scrum"
+
+[params]
+  subtitle = ""
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/page/about"
+[permalinks]
+    post = "about"
