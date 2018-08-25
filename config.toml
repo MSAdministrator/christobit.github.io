@@ -13,6 +13,6 @@ keywords = "blog,scrum"
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/pages/about"
+    url = "/page/about"
 [permalinks]
     post = "about"
