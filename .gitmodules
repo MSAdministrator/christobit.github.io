@@ -3,5 +3,5 @@
 	url = https://github.com/panr/hugo-theme-hello-friend.git
 [submodule "public"]
 	path = public
-	url = git@github.com:christobit/christobit.io.git
+	url = https://github.com/christobit/christobit.github.io.git
 	branch = master
