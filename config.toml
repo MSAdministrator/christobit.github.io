@@ -7,7 +7,7 @@ paginate = 5
 keywords = "blog,scrum"
 
 [params]
-  subtitle = ""
+  subtitle = "not a robot"
 
 [menu]
   [[menu.main]]
