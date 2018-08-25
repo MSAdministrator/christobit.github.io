@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on christobit</title>
+    <link>https://christobit.github.io/posts/</link>
+    <description>Recent content in Posts on christobit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Aug 2018 11:48:28 -0500</lastBuildDate>
+    
+	<atom:link href="https://christobit.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Undone Work</title>
+      <link>https://christobit.github.io/posts/undone-work/</link>
+      <pubDate>Sat, 25 Aug 2018 11:48:28 -0500</pubDate>
+      
+      <guid>https://christobit.github.io/posts/undone-work/</guid>
+      <description>A discussion on how &amp;ldquo;undone work&amp;rdquo; is handled in Scrum.
+What is &amp;ldquo;Undone&amp;rdquo; Work? Imagine this scenario:
+ At the Sprint Planning, the Development team identifies 5 PBIs (Product Backlog Items) that they would like to commit to. They place these in the Sprint Backlog and commit to the items for the Sprint. As the Sprint goes on, there are some issues along the way. At the end of the Sprint, one of the items does not get completed since it doesn&amp;rsquo;t match the DoD (Definition of Done).</description>
+    </item>
+    
+  </channel>
+</rss>
